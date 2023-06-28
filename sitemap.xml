@@ -106,20 +106,6 @@
   </url>
   
   <url>
-    <loc>http://blog.mudongzi.com/tags/%E4%B8%AD%E5%8C%BB/</loc>
-    <lastmod>2023-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mudongzi.com/tags/%E9%9D%96%E4%BA%91%E5%85%88%E7%94%9F/</loc>
-    <lastmod>2023-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.mudongzi.com/tags/%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,7 +120,21 @@
   </url>
   
   <url>
+    <loc>http://blog.mudongzi.com/tags/%E4%B8%AD%E5%8C%BB/</loc>
+    <lastmod>2023-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.mudongzi.com/tags/%E7%96%AB%E8%8B%97/</loc>
+    <lastmod>2023-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mudongzi.com/tags/%E9%9D%96%E4%BA%91%E5%85%88%E7%94%9F/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
